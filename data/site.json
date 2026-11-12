@@ -1,0 +1,84 @@
+{
+  "title": "Maged S. Al-Shaibani",
+  "footer": "Last updated October 2026",
+  "sections": [
+    {
+      "id": "about",
+      "title": "About",
+      "type": "about",
+      "source": "profile.json"
+    },
+    {
+      "id": "education",
+      "title": "Education",
+      "type": "rows",
+      "source": "education.json"
+    },
+    {
+      "id": "experience",
+      "title": "Experience",
+      "type": "rows",
+      "source": "experience.json"
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "meta": "2020 – 2026",
+      "type": "timeline",
+      "source": "news.json"
+    },
+    {
+      "id": "publications",
+      "title": "Publications",
+      "type": "publications",
+      "source": "publications.json"
+    },
+    {
+      "id": "research",
+      "title": "Research overview",
+      "type": "research-map",
+      "source": "topics.json"
+    },
+    {
+      "id": "patents",
+      "title": "Patents",
+      "type": "rows",
+      "source": "patents.json"
+    },
+    {
+      "id": "opensource",
+      "title": "Open source",
+      "meta": "10 projects",
+      "type": "rows",
+      "source": "opensource.json"
+    },
+    {
+      "id": "service",
+      "title": "Service & teaching",
+      "type": "rows",
+      "source": "service.json",
+      "nav": "Service"
+    },
+    {
+      "id": "awards",
+      "title": "Awards, talks & other",
+      "nav": "Awards",
+      "type": "rows",
+      "source": "awards.json"
+    },
+    {
+      "id": "systems",
+      "title": "Systems built at KFUPM IT",
+      "nav": "Systems",
+      "type": "rows",
+      "source": "systems.json"
+    },
+    {
+      "id": "skills",
+      "title": "Technical skills",
+      "nav": "Skills",
+      "type": "rows",
+      "source": "skills.json"
+    }
+  ]
+}

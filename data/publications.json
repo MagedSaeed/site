@@ -1,0 +1,412 @@
+[
+  {
+    "title": "Lossy Orthography and Linguistic Inference: Computational Approaches to Arabic Rasm Restoration",
+    "authors": "M. S. Al-Shaibani, I. Ahmad",
+    "year": 2026,
+    "venue": "EMNLP",
+    "type": "conference",
+    "published_in": "EMNLP 2026 (Main)",
+    "selected": true,
+    "topics": [
+      { "topic": "text-representation", "level": 5 },
+      { "topic": "language-models", "level": 3 }
+    ],
+    "id": "pub-rasm"
+  },
+  {
+    "title": "Bulbul: A Dataset for Dialectal Arabic Speech Recognition",
+    "authors": "A. Ashraf, A. Alansari, F. Al Abbas, N. Almarwani, S. Aloufi, S. Ezzini, M. S. Al-Shaibani, …, H. Luqman",
+    "year": 2026,
+    "venue": "EMNLP",
+    "type": "conference",
+    "published_in": "EMNLP 2026 (Main)",
+    "url": "https://arxiv.org/abs/2608.21950",
+    "selected": true,
+    "topics": [
+      { "topic": "speech-vision", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "community-projects", "level": 5 },
+      { "topic": "culture-dialects", "level": 5 },
+      { "topic": "language-models", "level": 2 }
+    ]
+  },
+  {
+    "title": "PromptLab: A Collaborative Platform for Prompt Engineering and Dataset Curation",
+    "authors": "M. S. Al-Shaibani, Z. Alyafeai, D. Refai, N. Alomari, A. Ashraf, M. Alheraki, M. Alturki, H. Luqman, et al.",
+    "year": 2026,
+    "venue": "EACL",
+    "type": "conference",
+    "published_in": "EACL 2026 System Demonstrations, pp. 225–260",
+    "url": "https://doi.org/10.18653/v1/2026.eacl-demo.18",
+    "topics": [
+      { "topic": "datasets", "level": 5 },
+      { "topic": "language-models", "level": 4 }
+    ]
+  },
+  {
+    "title": "STAR: Instruction Tuning for Arabic Across Tasks, Datasets, and Models",
+    "authors": "M. S. Al-Shaibani, Z. Alyafeai, I. Ahmad",
+    "year": 2026,
+    "venue": "LRE",
+    "type": "journal",
+    "published_in": "Language Resources and Evaluation 60(4): 69",
+    "url": "https://doi.org/10.1007/s10579-026-09942-8",
+    "selected": true,
+    "topics": [
+      { "topic": "language-models", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "culture-dialects", "level": 3 }
+    ]
+  },
+  {
+    "title": "Poem Meter Classification of Spoken Arabic Poetry: Integrating High-Resource Systems for a Low-Resource Task",
+    "authors": "M. S. Al-Shaibani, Z. Alyafeai, I. Ahmad, A. K. S. Al-Zahrani",
+    "year": 2026,
+    "venue": "PeerJ CS",
+    "type": "journal",
+    "published_in": "PeerJ Computer Science 12: e4036",
+    "url": "https://doi.org/10.7717/peerj-cs.4036",
+    "topics": [
+      { "topic": "speech-vision", "level": 5 },
+      { "topic": "computational-poetry", "level": 5 },
+      { "topic": "datasets", "level": 3 }
+    ]
+  },
+  {
+    "title": "Character Iconicity vs. Arbitrariness: An Arabic NLP Perspective",
+    "authors": "D. Alomari, I. Ahmad, M. S. Al-Shaibani",
+    "year": 2026,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2608.02935",
+    "url": "https://arxiv.org/abs/2608.02935",
+    "topics": [
+      { "topic": "text-representation", "level": 5 }
+    ]
+  },
+  {
+    "title": "Arabic Machine-Generated Text Detection: Stylometric Analysis and Cross-Model Evaluation",
+    "authors": "M. S. Al-Shaibani, M. Ahmed",
+    "year": 2026,
+    "venue": "ESWA",
+    "type": "journal",
+    "published_in": "Expert Systems with Applications 305: 130644",
+    "url": "https://doi.org/10.1016/j.eswa.2025.130644",
+    "selected": true,
+    "topics": [
+      { "topic": "language-models", "level": 5 },
+      { "topic": "datasets", "level": 4 }
+    ]
+  },
+  {
+    "title": "Machine Learning-Based Models for Predicting Calibration Cost of Flowmeters in the Oil Industry",
+    "authors": "A. Mohammed, A. Javaid, A. Ghaithan, O. AlDhafer, M. S. Al-Shaibani, A. Alshibani",
+    "year": 2025,
+    "venue": "NCA",
+    "type": "journal",
+    "published_in": "Neural Computing and Applications 37(4): 2537–2556",
+    "url": "https://doi.org/10.1007/s00521-024-10748-4",
+    "topics": [
+      { "topic": "interdisciplinary", "level": 5 }
+    ]
+  },
+  {
+    "title": "MOLE: Metadata Extraction and Validation in Scientific Papers Using LLMs",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, B. Ghanem",
+    "year": 2025,
+    "venue": "EMNLP",
+    "type": "conference",
+    "published_in": "Findings of EMNLP 2025, pp. 12236–12264",
+    "url": "https://aclanthology.org/2025.findings-emnlp.655/",
+    "selected": true,
+    "topics": [
+      { "topic": "information-extraction", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "language-models", "level": 4 }
+    ]
+  },
+  {
+    "title": "Pearl: A Multimodal Culturally-Aware Arabic Instruction Dataset",
+    "authors": "F. Alwajih, S. M. Magdy, A. El Mekki, …, M. S. Al-Shaibani, …, M. Abdul-Mageed",
+    "year": 2025,
+    "venue": "EMNLP",
+    "type": "conference",
+    "published_in": "Findings of EMNLP 2025, pp. 23048–23079",
+    "url": "https://aclanthology.org/2025.findings-emnlp.1254/",
+    "topics": [
+      { "topic": "speech-vision", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "culture-dialects", "level": 5 },
+      { "topic": "community-projects", "level": 5 },
+      { "topic": "language-models", "level": 4 }
+    ]
+  },
+  {
+    "title": "Is This the Best Prompt? Scoring Prompts for Arabic NLP Across LLMs",
+    "authors": "D. Refai, M. S. Al-Shaibani, I. Ahmad",
+    "year": 2025,
+    "venue": "IEEE Access",
+    "type": "journal",
+    "published_in": "IEEE Access 13: 171468–171492",
+    "url": "https://doi.org/10.1109/ACCESS.2025.3616181",
+    "topics": [
+      { "topic": "language-models", "level": 5 }
+    ]
+  },
+  {
+    "title": "MeXtract: Light-Weight Metadata Extraction from Scientific Papers",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, B. Ghanem",
+    "year": 2025,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2510.06889",
+    "url": "https://arxiv.org/abs/2510.06889",
+    "topics": [
+      { "topic": "language-models", "level": 5 },
+      { "topic": "information-extraction", "level": 5 },
+      { "topic": "datasets", "level": 4 }
+    ]
+  },
+  {
+    "title": "Dotless Arabic Text for Natural Language Processing",
+    "authors": "M. S. Al-Shaibani, I. Ahmad",
+    "year": 2025,
+    "venue": "CL",
+    "type": "journal",
+    "published_in": "Computational Linguistics 51(2): 557–598",
+    "url": "https://doi.org/10.1162/coli_a_00535",
+    "selected": true,
+    "topics": [
+      { "topic": "text-representation", "level": 5 },
+      { "topic": "computational-poetry", "level": 2 }
+    ],
+    "thesis": "https://eprints.kfupm.edu.sa/id/eprint/142956/"
+  },
+  {
+    "title": "CIDAR: Culturally Relevant Instruction Dataset for Arabic",
+    "authors": "Z. Alyafeai, K. Almubarak, A. Ashraf, …, M. S. Al-Shaibani",
+    "year": 2024,
+    "venue": "ACL",
+    "type": "conference",
+    "published_in": "Findings of ACL 2024, pp. 12878–12901",
+    "url": "https://aclanthology.org/2024.findings-acl.764/",
+    "selected": true,
+    "topics": [
+      { "topic": "language-models", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "culture-dialects", "level": 5 },
+      { "topic": "community-projects", "level": 4 }
+    ]
+  },
+  {
+    "title": "WASM: A Dataset for Hashtag Recommendation for Arabic Tweets",
+    "authors": "M. S. Al-Shaibani, H. Luqman, A. S. Al-Ghofaily, A. A. Al-Najim",
+    "year": 2024,
+    "venue": "AJSE",
+    "type": "journal",
+    "published_in": "Arabian Journal for Science and Engineering 49(9): 12131–12145",
+    "url": "https://doi.org/10.1007/s13369-023-08567-1",
+    "topics": [
+      { "topic": "datasets", "level": 5 },
+      { "topic": "culture-dialects", "level": 4 }
+    ]
+  },
+  {
+    "title": "A Bibliography of Multiple Sclerosis Lesions Detection Methods Using Brain MRIs",
+    "authors": "A. Shah, M. S. Al-Shaibani, M. Ahmad, R. Bunyan",
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2302.09516",
+    "url": "https://arxiv.org/abs/2302.09516",
+    "topics": [
+      { "topic": "interdisciplinary", "level": 5 },
+      { "topic": "speech-vision", "level": 3 }
+    ]
+  },
+  {
+    "title": "Consonant Is All You Need: A Compact Representation of English Text for Efficient NLP",
+    "authors": "M. S. Al-Shaibani, I. Ahmad",
+    "year": 2023,
+    "venue": "EMNLP",
+    "type": "conference",
+    "published_in": "Findings of EMNLP 2023, pp. 11578–11588",
+    "url": "https://doi.org/10.18653/v1/2023.findings-emnlp.775",
+    "selected": true,
+    "topics": [
+      { "topic": "text-representation", "level": 5 }
+    ],
+    "patent": "https://patents.google.com/patent/US20260154502A1/en"
+  },
+  {
+    "title": "Taqyim: Evaluating Arabic NLP Tasks Using ChatGPT Models",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, B. AlKhamissi, H. Luqman, E. Alareqi, A. Fadel",
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2306.16322",
+    "url": "https://arxiv.org/abs/2306.16322",
+    "topics": [
+      { "topic": "language-models", "level": 5 },
+      { "topic": "culture-dialects", "level": 2 }
+    ]
+  },
+  {
+    "title": "Ashaar: Automatic Analysis and Generation of Arabic Poetry Using Deep Learning Approaches",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, M. Ahmed",
+    "year": 2023,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2307.06218",
+    "url": "https://arxiv.org/abs/2307.06218",
+    "topics": [
+      { "topic": "computational-poetry", "level": 5 },
+      { "topic": "datasets", "level": 5 }
+    ]
+  },
+  {
+    "title": "Evaluating Various Tokenizers for Arabic Text Classification",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, M. Ghaleb, I. Ahmad",
+    "year": 2023,
+    "venue": "NPL",
+    "type": "journal",
+    "published_in": "Neural Processing Letters 55(3): 2911–2933",
+    "url": "https://doi.org/10.1007/s11063-022-10990-8",
+    "selected": true,
+    "topics": [
+      { "topic": "text-representation", "level": 5 },
+      { "topic": "language-models", "level": 2 }
+    ]
+  },
+  {
+    "title": "A Meta-Heuristic-Based Algorithm for Designing Multi-Objective Multi-Echelon Supply Chain Network",
+    "authors": "A. Mohammed, M. S. Al-Shaibani, S. O. Duffuaa",
+    "year": 2023,
+    "venue": "ASOC",
+    "type": "journal",
+    "published_in": "Applied Soft Computing 147: 110774",
+    "url": "https://doi.org/10.1016/j.asoc.2023.110774",
+    "topics": [
+      { "topic": "interdisciplinary", "level": 5 }
+    ]
+  },
+  {
+    "title": "BLOOM: A 176B-Parameter Open-Access Multilingual Language Model",
+    "authors": "BigScience Workshop (incl. M. S. Al-Shaibani)",
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2211.05100",
+    "url": "https://arxiv.org/abs/2211.05100",
+    "selected": true,
+    "topics": [
+      { "topic": "community-projects", "level": 5 },
+      { "topic": "language-models", "level": 5 }
+    ]
+  },
+  {
+    "title": "PromptSource: An Integrated Development Environment and Repository for Natural Language Prompts",
+    "authors": "S. H. Bach, V. Sanh, Z. X. Yong, …, M. S. Al-Shaibani, …, A. M. Rush",
+    "year": 2022,
+    "venue": "ACL",
+    "type": "conference",
+    "published_in": "ACL 2022 System Demonstrations, pp. 93–104",
+    "url": "https://doi.org/10.18653/v1/2022.acl-demo.9",
+    "selected": true,
+    "topics": [
+      { "topic": "community-projects", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "language-models", "level": 4 }
+    ]
+  },
+  {
+    "title": "Masader: Metadata Sourcing for Arabic Text and Speech Data Resources",
+    "authors": "Z. Alyafeai, M. Masoud, M. Ghaleb, M. S. Al-Shaibani",
+    "year": 2022,
+    "venue": "LREC",
+    "type": "conference",
+    "published_in": "LREC 2022, pp. 6340–6351",
+    "topics": [
+      { "topic": "community-projects", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "information-extraction", "level": 4 }
+    ],
+    "url": "https://aclanthology.org/2022.lrec-1.681/"
+  },
+  {
+    "title": "Calliar: An Online Handwritten Dataset for Arabic Calligraphy",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, M. Ghaleb, Y. A. Al-Wajih",
+    "year": 2022,
+    "venue": "NCA",
+    "type": "journal",
+    "published_in": "Neural Computing and Applications 34(23): 20701–20713",
+    "url": "https://doi.org/10.1007/s00521-022-07537-2",
+    "topics": [
+      { "topic": "datasets", "level": 5 },
+      { "topic": "speech-vision", "level": 5 }
+    ]
+  },
+  {
+    "title": "Masader Plus: A New Interface for Exploring +500 Arabic NLP Datasets",
+    "authors": "Y. Altaher, A. Fadel, M. Alotaibi, … M. S. Al-Shaibani, et al.",
+    "year": 2022,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2208.00932",
+    "url": "https://arxiv.org/abs/2208.00932",
+    "topics": [
+      { "topic": "community-projects", "level": 5 },
+      { "topic": "datasets", "level": 5 },
+      { "topic": "information-extraction", "level": 4 }
+    ]
+  },
+  {
+    "title": "Meter Classification of Arabic Poems Using Deep Bidirectional Recurrent Neural Networks",
+    "authors": "M. S. Al-Shaibani, Z. Alyafeai, I. Ahmad",
+    "year": 2020,
+    "venue": "PRL",
+    "type": "journal",
+    "published_in": "Pattern Recognition Letters 136: 1–7",
+    "url": "https://doi.org/10.1016/j.patrec.2020.05.028",
+    "topics": [
+      { "topic": "computational-poetry", "level": 5 }
+    ]
+  },
+  {
+    "title": "ARBML: Democratizing Arabic Natural Language Processing Tools",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani",
+    "year": 2020,
+    "venue": "NLP-OSS",
+    "type": "workshop",
+    "published_in": "NLP-OSS Workshop @ EMNLP 2020, pp. 8–13",
+    "url": "https://doi.org/10.18653/v1/2020.nlposs-1.2",
+    "topics": [
+      { "topic": "community-projects", "level": 5 }
+    ]
+  },
+  {
+    "title": "A Survey on Transfer Learning in Natural Language Processing",
+    "authors": "Z. Alyafeai, M. S. Al-Shaibani, I. Ahmad",
+    "year": 2020,
+    "venue": "arXiv",
+    "type": "preprint",
+    "published_in": "arXiv:2007.04239",
+    "url": "https://arxiv.org/abs/2007.04239",
+    "topics": [
+      { "topic": "language-models", "level": 5 }
+    ]
+  },
+  {
+    "title": "MetRec: A Dataset for Meter Classification of Arabic Poetry",
+    "authors": "M. S. Al-Shaibani, Z. Alyafeai, I. Ahmad",
+    "year": 2020,
+    "venue": "DiB",
+    "type": "journal",
+    "published_in": "Data in Brief 33: 106497",
+    "url": "https://doi.org/10.1016/j.dib.2020.106497",
+    "topics": [
+      { "topic": "datasets", "level": 5 },
+      { "topic": "computational-poetry", "level": 5 }
+    ]
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "name": "Maged S. Al-Shaibani",
+  "role": "NLP Researcher · AI Engineer at the SDAIA–KFUPM Joint Research Center for AI",
+  "photo": "assets/photo.jpg",
+  "highlight_author": "M. S. Al-Shaibani",
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Uo91Tz0AAAAJ",
+      "group": "research"
+    },
+    {
+      "label": "Semantic Scholar",
+      "url": "https://www.semanticscholar.org/author/2065657002",
+      "group": "research"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0009-0002-1364-086X",
+      "group": "research"
+    },
+    {
+      "label": "Scopus",
+      "url": "https://www.scopus.com/authid/detail.uri?authorId=57216977712",
+      "group": "research"
+    },
+    {
+      "label": "ACL Anthology",
+      "url": "https://aclanthology.org/people/maged-s-al-shaibani/",
+      "group": "venues"
+    },
+    {
+      "label": "OpenReview",
+      "url": "https://openreview.net/profile?id=~Maged_S._Al-shaibani1",
+      "group": "venues"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/MagedSaeed",
+      "group": "social"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/maged-al-shaibani",
+      "group": "social"
+    },
+    {
+      "label": "X",
+      "url": "https://x.com/_MagedSaeed_",
+      "group": "social",
+      "icon_only": true
+    }
+  ],
+  "emails": [
+    "majed.alshaibani@kfupm.edu.sa",
+    "mageedsaeed1@gmail.com"
+  ],
+  "bio": [
+    "I am an NLP researcher and AI engineer at the SDAIA–KFUPM Joint Research Center for AI in Saudi Arabia. My research asks how the way we represent text shapes what language models can learn. I work on tokenization, compact and lossy text representations, and the evaluation and instruction tuning of multilingual LLMs. I often use Arabic as a testbed because its script and morphology stress these questions.",
+    "My master's thesis at KFUPM introduced dotless text as an alternative representation for NLP, published in *Computational Linguistics*. I contributed to BigScience (BLOOM and PromptSource), co-founded the open-source community ARBML, and run the GPU cluster infrastructure at my center."
+  ]
+}

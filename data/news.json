@@ -1,0 +1,127 @@
+[
+  {
+    "date": "2026-08",
+    "kind": "paper",
+    "text": "Two papers accepted to the **EMNLP 2026** main conference in Budapest: [Arabic rasm restoration](#pub-rasm) and the [Bulbul](https://arxiv.org/abs/2608.21950) dialectal speech recognition dataset."
+  },
+  {
+    "date": "2026-08",
+    "kind": "paper",
+    "text": "Two journal papers out: [STAR](https://doi.org/10.1007/s10579-026-09942-8) on instruction tuning in *Language Resources and Evaluation*, and [poem meter classification of spoken poetry](https://doi.org/10.7717/peerj-cs.4036) in *PeerJ Computer Science*."
+  },
+  {
+    "date": "2026-08",
+    "kind": "paper",
+    "text": "New preprint: [Character Iconicity vs. Arbitrariness](https://arxiv.org/abs/2608.02935)."
+  },
+  {
+    "date": "2026-06",
+    "kind": "release",
+    "text": "Released [tnqeet](https://pypi.org/project/tnqeet/) on PyPI, a library that restores dots to undotted Arabic text."
+  },
+  {
+    "date": "2026-03",
+    "kind": "talk",
+    "text": "Presented [PromptLab](https://doi.org/10.18653/v1/2026.eacl-demo.18) at the EACL 2026 system demonstrations track in Rabat."
+  },
+  {
+    "date": "2025-12",
+    "kind": "paper",
+    "text": "[Arabic machine-generated text detection](https://doi.org/10.1016/j.eswa.2025.130644) accepted to *Expert Systems with Applications*."
+  },
+  {
+    "date": "2025-10",
+    "kind": "paper",
+    "text": "New preprint: [MeXtract](https://arxiv.org/abs/2510.06889), lightweight models for extracting metadata from scientific papers."
+  },
+  {
+    "date": "2025-09",
+    "kind": "release",
+    "text": "[farasapy 0.1.0](https://pypi.org/project/farasapy/) released, the first major update since 2021."
+  },
+  {
+    "date": "2025-08",
+    "kind": "paper",
+    "text": "Two papers accepted to Findings of **EMNLP 2025**: [MOLE](https://arxiv.org/abs/2505.19800) and [Pearl](https://arxiv.org/abs/2505.21979)."
+  },
+  {
+    "date": "2025-05",
+    "kind": "paper",
+    "text": "Three preprints in one week: [MOLE](https://arxiv.org/abs/2505.19800), [Pearl](https://arxiv.org/abs/2505.21979), and [The Arabic AI Fingerprint](https://arxiv.org/abs/2505.23276)."
+  },
+  {
+    "date": "2025-04",
+    "kind": "paper",
+    "text": "New preprint: [meter classification of recited Arabic poetry](https://arxiv.org/abs/2504.12172)."
+  },
+  {
+    "date": "2024-09",
+    "kind": "paper",
+    "text": "[Dotless Arabic Text for NLP](https://doi.org/10.1162/coli_a_00535) published in *Computational Linguistics*."
+  },
+  {
+    "date": "2024-08",
+    "kind": "paper",
+    "text": "[CIDAR](https://arxiv.org/abs/2402.03177), a culturally relevant instruction dataset, in Findings of **ACL 2024**."
+  },
+  {
+    "date": "2024-01",
+    "kind": "milestone",
+    "text": "Graduated with an **M.Sc. in Computer Science** from KFUPM. Also out this month: [WASM](https://doi.org/10.1007/s13369-023-08567-1) in the *Arabian Journal for Science and Engineering*."
+  },
+  {
+    "date": "2023-12",
+    "kind": "paper",
+    "text": "[Consonant is All You Need](https://doi.org/10.18653/v1/2023.findings-emnlp.775) in Findings of **EMNLP 2023**."
+  },
+  {
+    "date": "2023-07",
+    "kind": "paper",
+    "text": "New preprint: [Ashaar](https://arxiv.org/abs/2307.06218), analysis and generation of Arabic poetry."
+  },
+  {
+    "date": "2023-06",
+    "kind": "paper",
+    "text": "New preprint: [Taqyim](https://arxiv.org/abs/2306.16322), evaluating Arabic NLP tasks with ChatGPT models."
+  },
+  {
+    "date": "2022-11",
+    "kind": "paper",
+    "text": "The [BLOOM](https://arxiv.org/abs/2211.05100) paper is out, from the BigScience workshop I contributed to."
+  },
+  {
+    "date": "2022-08",
+    "kind": "paper",
+    "text": "Two journal papers published: [evaluating tokenizers](https://doi.org/10.1007/s11063-022-10990-8) in *Neural Processing Letters* and [Calliar](https://doi.org/10.1007/s00521-022-07537-2) in *Neural Computing and Applications*."
+  },
+  {
+    "date": "2022-06",
+    "kind": "paper",
+    "text": "[Masader](https://aclanthology.org/2022.lrec-1.681/), a catalogue of Arabic text and speech resources, presented at **LREC 2022**."
+  },
+  {
+    "date": "2022-05",
+    "kind": "paper",
+    "text": "[PromptSource](https://doi.org/10.18653/v1/2022.acl-demo.9) presented at the **ACL 2022** system demonstrations track."
+  },
+  {
+    "date": "2020-11",
+    "kind": "paper",
+    "text": "[ARBML](https://doi.org/10.18653/v1/2020.nlposs-1.2) presented at the NLP-OSS workshop at **EMNLP 2020**."
+  },
+  {
+    "date": "2020-08",
+    "kind": "paper",
+    "text": "[Meter classification of Arabic poems](https://doi.org/10.1016/j.patrec.2020.05.028) published in *Pattern Recognition Letters*."
+  },
+  {
+    "date": "2020-07",
+    "kind": "release",
+    "text": "Released [tkseem](https://pypi.org/project/tkseem/) on PyPI, an Arabic tokenization toolkit, with Z. Alyafeai."
+  },
+  {
+    "date": "2020-05",
+    "kind": "release",
+    "text": "Released [farasapy](https://pypi.org/project/farasapy/) on PyPI, a Python wrapper for the Farasa toolkit. Also out: [a survey on transfer learning in NLP](https://arxiv.org/abs/2007.04239)."
+  }
+]

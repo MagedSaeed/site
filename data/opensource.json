@@ -1,0 +1,56 @@
+[
+  {
+    "key": "ARBML",
+    "url": "https://github.com/ARBML",
+    "text": "Co-founder. A community initiative for open Arabic NLP research, producing tools, datasets, and models with contributors worldwide.",
+    "note": "NLP-OSS 2020"
+  },
+  {
+    "key": "tkseem",
+    "url": "https://github.com/ARBML/tkseem",
+    "text": "Arabic tokenization library implementing word, SentencePiece, character, disjoint-letter, and randomized segmentation. Part of ARBML.",
+    "note": "PyPI"
+  },
+  {
+    "key": "Masader",
+    "url": "https://github.com/ARBML/masader",
+    "text": "Crowdsourced catalogue of Arabic datasets, the largest of its kind. Part of ARBML.",
+    "note": "LREC 2022"
+  },
+  {
+    "key": "Qawafi",
+    "url": "https://github.com/ARBML/qawafi",
+    "text": "NLP application for Arabic prosody, built for the Barmajan Hackathon. Part of ARBML."
+  },
+  {
+    "key": "tnqeeb",
+    "url": "https://github.com/ARBML/tnqeeb",
+    "text": "Structured-data harvesting framework built on Scrapy; the *Ashaar* Arabic poetry dataset is one of its use cases. Part of ARBML."
+  },
+  {
+    "key": "farasapy",
+    "url": "https://github.com/MagedSaeed/farasapy",
+    "text": "Python wrapper for the Farasa Arabic NLP toolkit, widely adopted in the community.",
+    "note": "PyPI"
+  },
+  {
+    "key": "tnqeet",
+    "url": "https://github.com/MagedSaeed/tnqeet",
+    "text": "Dot restoration for dotless Arabic (*rasm*): a 431M-word corpus with trained n-gram, BiLSTM, Transformer, and CANINE models, with a [Hugging Face demo](https://huggingface.co/spaces/KFUPM-JRCAI/tnqeet-app).",
+    "note": "[PyPI](https://pypi.org/project/tnqeet/)"
+  },
+  {
+    "key": "anonymous-hf",
+    "url": "https://anonymous-hf.com",
+    "text": "Anonymous, shareable links to Hugging Face models and datasets for double-blind peer review, streamed without server-side storage. [Source](https://github.com/MagedSaeed/anonymous-hf)."
+  },
+  {
+    "key": "generate-sequences",
+    "url": "https://github.com/MagedSaeed/generate-sequences",
+    "text": "PyTorch package providing greedy and beam-search decoding for generative models."
+  },
+  {
+    "key": "BigScience",
+    "text": "Contributor to BLOOM and PromptSource."
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "key": "Co-organizer",
+    "text": "StanceEval 2026 shared task at [ArabicNLP 2026 @ EMNLP](https://stanceeval.github.io/)."
+  },
+  {
+    "key": "Reviewer",
+    "text": "ACL Rolling Review, EMNLP, and their co-located venues."
+  },
+  {
+    "key": "Consultant",
+    "text": "Arabic NLP and LLM evaluation: designing a benchmark for evaluating LLMs on Arabic poetry, and co-authoring the tools section of *A Panoramic Review of Arabic NLP* ([Marsad](https://arai.ksaa.gov.sa/marsad/), King Salman Global Academy for Arabic Language)."
+  },
+  {
+    "key": "Teaching",
+    "text": "Lab instructor, ICS 103 (Computer Programming in C), KFUPM.",
+    "note": "2019"
+  }
+]

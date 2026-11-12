@@ -1,0 +1,83 @@
+{
+  "max_level": 5,
+  "years": [
+    2020,
+    2026
+  ],
+  "sort": "volume",
+  "topics": [
+    {
+      "id": "text-representation",
+      "name": "Text representation & tokenization",
+      "short": "Text representation",
+      "description": "How the way text is encoded shapes what models learn",
+      "color": "#2F5AAE",
+      "color_dark": "#7FA3EE"
+    },
+    {
+      "id": "language-models",
+      "name": "Language models: training, prompting & evaluation",
+      "short": "Language models",
+      "description": "Pretraining, instruction tuning, prompt engineering, and evaluating language models",
+      "color": "#D0632A",
+      "color_dark": "#F0915C"
+    },
+    {
+      "id": "datasets",
+      "name": "Datasets & resources",
+      "short": "Datasets & resources",
+      "description": "Datasets, catalogues, and other resources for NLP",
+      "color": "#7B4FC9",
+      "color_dark": "#A98BEA"
+    },
+    {
+      "id": "information-extraction",
+      "name": "Information extraction",
+      "short": "Information extraction",
+      "description": "Pulling structured metadata out of scientific papers",
+      "color": "#C2417F",
+      "color_dark": "#E57AAE"
+    },
+    {
+      "id": "speech-vision",
+      "name": "Speech & vision",
+      "short": "Speech & vision",
+      "description": "Work beyond text: speech recognition, handwriting, and images",
+      "color": "#178A7A",
+      "color_dark": "#4FC2B0"
+    },
+    {
+      "id": "computational-poetry",
+      "name": "Computational poetry",
+      "short": "Computational poetry",
+      "description": "Meter, prosody, and generation of classical verse",
+      "color": "#A63D3D",
+      "color_dark": "#E07A7A"
+    },
+    {
+      "id": "community-projects",
+      "name": "Open community projects",
+      "short": "Open community",
+      "description": "Open, community-driven efforts such as ARBML and BigScience",
+      "color": "#4D8A3A",
+      "color_dark": "#86C06E"
+    },
+    {
+      "id": "culture-dialects",
+      "name": "Culture & dialects",
+      "short": "Culture & dialects",
+      "description": "Cultural relevance and dialectal variety in Arabic data and models",
+      "color": "#B08A1E",
+      "color_dark": "#D9B64A"
+    },
+    {
+      "id": "interdisciplinary",
+      "name": "Interdisciplinary research",
+      "short": "Interdisciplinary",
+      "description": "Machine learning applied to problems in other fields, such as supply-chain design",
+      "color": "#7A808C",
+      "color_dark": "#9AA0AA",
+      "neutral": true
+    }
+  ]
+}

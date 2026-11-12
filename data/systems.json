@@ -1,0 +1,26 @@
+[
+  {
+    "key": "Rasael",
+    "text": "Email broadcasting platform serving the KFUPM community."
+  },
+  {
+    "key": "APS",
+    "text": "The KFUPM annual faculty evaluation platform."
+  },
+  {
+    "key": "Programs",
+    "text": "Program and course management platform for the Deanship of Academic Development."
+  },
+  {
+    "key": "Promotion",
+    "text": "Faculty promotion platform managing academic promotion workflows."
+  },
+  {
+    "key": "Text analytics",
+    "text": "Detects AI-generated academic submissions using external APIs; integrated into KFUPM admission processes."
+  },
+  {
+    "key": "DevOps",
+    "text": "Internal APIs, packages, and utilities supporting university-wide services."
+  }
+]

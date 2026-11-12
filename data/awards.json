@@ -1,0 +1,27 @@
+[
+  {
+    "key": "Award",
+    "text": "Fourth place, Barmajan Hackathon, King Salman Global Academy for Arabic Language."
+  },
+  {
+    "key": "Award",
+    "text": "Third prize, KFUPM Takaful Competition (*Age and Gender Recognition Using Deep Learning*)."
+  },
+  {
+    "key": "Award",
+    "text": "KFUPM team, [National Programming Contest](https://ccm.kfupm.edu.sa/news/news-detail/1st---2nd-prize-in-the-national-programming-contest---oct-2018): fifth-place equivalent among 58 teams.",
+    "note": "2018"
+  },
+  {
+    "key": "Talk",
+    "text": "*Dotless Arabic Text for Natural Language Processing.* Invited talk, JRCAI."
+  },
+  {
+    "key": "Talk",
+    "text": "[*DeepSeek, Presented Simple*](https://magedsaeed.github.io/posts/DeepSeek-Presented-Simple/). A presentation of the DeepSeek architecture and training pipeline."
+  },
+  {
+    "key": "Other",
+    "text": "Geoscience collaboration, KFUPM: seismic data-generation utilities and MATLAB exercises for a seismic-noise textbook."
+  }
+]

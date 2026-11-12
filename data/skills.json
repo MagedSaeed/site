@@ -1,0 +1,22 @@
+[
+  {
+    "key": "Programming",
+    "text": "Python (primary), C, Java, JavaScript, Bash, SQL."
+  },
+  {
+    "key": "ML",
+    "text": "PyTorch, PyTorch Lightning, Hugging Face Transformers, PEFT/LoRA, TRL, lm-evaluation-harness, Ray Tune; multi-GPU training on SLURM clusters."
+  },
+  {
+    "key": "Web & software",
+    "text": "Django, Flask, FastAPI, React, Scrapy, REST API design, Ansible."
+  },
+  {
+    "key": "Systems",
+    "text": "Linux server administration, Git, HPC and SLURM workflows, DevOps automation."
+  },
+  {
+    "key": "Languages",
+    "text": "Arabic (native), English (fluent)."
+  }
+]
